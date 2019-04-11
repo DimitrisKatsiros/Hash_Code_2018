@@ -2,6 +2,8 @@
 
 Welcome to the Hash_Code_2018 wiki!
 
+We implemented an algorithm for optimizing self driving vehicle's profit  
+
 **SCORES** 
 
 
