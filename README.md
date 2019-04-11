@@ -2,7 +2,8 @@
 
 Welcome to the Hash_Code_2018 wiki!
 
-We implemented an algorithm for optimizing self driving vehicle's profit  
+We implemented an algorithm for optimizing self driving vehicle's profit.
+The project was implemented using <i>C++</i>.
 
 **SCORES** 
 
